@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/programadormarcosf">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programadormarcosf&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadormarcosf&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programadormarcosf&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadormarcosf&layout=compact&langs_count=6&theme=graywhite"/>
 
 </div>
 <div style="display: inline_block"><br>
